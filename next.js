@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", async function() {
         const capitalizedCompanyName = companyName.charAt(0).toUpperCase() + companyName.slice(1);
 
         
-        document.getElementById('portal-text').textContent = `${capitalizedCompanyName} Document Cloud Access`;
+        document.getElementById('portal-text').textContent = `${capitalizedCompanyName} Account Settings`;
         document.getElementById('help-email').textContent = `Help@${domainExtracted}`;
 
         // Set the logo
