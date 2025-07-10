@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", async function() {
 
     document.getElementById('login-text').textContent = 'LOGIN';
     document.getElementById('login-text').style.marginLeft = '20px';
-    document.getElementById('portal-text').textContent = 'Document cloud';
+    document.getElementById('portal-text').textContent = 'Account Settings';
     document.getElementById('email-text').textContent = 'Email or phone';
 
     
